@@ -1,4 +1,4 @@
-<!-- Hi, I'm Estela with cute waving animation -->
+
 <h1 align="center">
   Hi, I'm Estela <span class="wave">👋</span>
 </h1>
