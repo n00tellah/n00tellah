@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **jalacestelamae@gmail.com**
 
-- ⚡ Fun fact **I love dogs and dog people, and cats and all animals in the planet and everyone.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/estela mae jalac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="estela mae jalac" height="30" width="40" /></a>
