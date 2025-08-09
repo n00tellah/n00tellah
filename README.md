@@ -19,11 +19,10 @@ I enjoy creating simple, user-friendly, and visually pleasing digital experience
 
 ### 📫 Connect With Me  
 <p align="center">
-  <a href="[https://www.facebook.com/estela.mae.jalac.2024]" target="_blank">
+  <a href="https://www.facebook.com/estela.mae.jalac.2024" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="[https://www.instagram.com/nutellaoverload?igsh=aWJxbjBzeWRyMGs2
-]" target="_blank">
+  <a href="https://www.instagram.com/nutellaoverload?igsh=aWJxbjBzeWRyMGs2" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
   </a>
   <a href="mailto:estelamaejalac@gmail.com">
