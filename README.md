@@ -1,4 +1,3 @@
-<!-- Typing animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Estela" alt="Typing SVG" />
 </h1>
@@ -8,7 +7,7 @@
 ---
 
 ### 🌼 About Me  
-Hi! I’m Estela — a humble and curious learner, exploring design and development one step at a time.  
+Hi! I’m Estela — a curious learner, exploring design and development one step at a time.  
 I enjoy creating simple, user-friendly, and visually pleasing digital experiences.
 
 ---
