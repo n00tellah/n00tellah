@@ -1,68 +1,39 @@
-<!-- README.md Profile HTML -->
-<h1 align="center">
-  <span id="typing"></span>
-  <span class="wave">👋</span>
-</h1>
+<div align="center">
 
-<h3 align="center">Aspiring UI/UX Designer</h3>
+  <!-- Typing animation -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=30&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Estela" alt="Typing SVG" />
+  </h1>
 
-<p align="center">
-  Crafting intuitive and visually appealing designs that bring ideas to life.
-</p>
+  <h3>🌸 Aspiring UI/UX</h3>
+  
+  <p>Just a curious mind learning and creating along the way ✨</p>
 
----
+  <!-- Skills -->
+  <h4>Tech & Tools I use</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  </p>
 
-<h3 align="center">💌 Connect with me</h3>
-<p align="center">
-  <a href="https://facebook.com/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/>
-  </a>
-</p>
+  <!-- Socials -->
+  <h4>Connect with me</h4>
+  <p>
+    <a href="https://facebook.com/yourfacebook" target="_blank">
+      <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
+    </a>
+    <a href="https://instagram.com/yourinstagram" target="_blank">
+      <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
+    </a>
+    <a href="mailto:your@email.com">
+      <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email"/>
+    </a>
+  </p>
 
----
-
-<h3 align="center">🛠 Tech Stack</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-</p>
-
-<style>
-  .wave {
-    animation: wave-animation 2s infinite;
-    transform-origin: 70% 70%;
-    display: inline-block;
-  }
-  @keyframes wave-animation {
-    0% { transform: rotate(0deg); }
-    10% { transform: rotate(14deg); }
-    20% { transform: rotate(-8deg); }
-    30% { transform: rotate(14deg); }
-    40% { transform: rotate(-4deg); }
-    50% { transform: rotate(10deg); }
-    60% { transform: rotate(0deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
-
-<script>
-  const text = "Hi, I'm Estela";
-  let index = 0;
-  function type() {
-    if (index < text.length) {
-      document.getElementById("typing").innerHTML += text.charAt(index);
-      index++;
-      setTimeout(type, 150);
-    }
-  }
-  type();
-</script>
+  <!-- Cute waving animation -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving hand"/>
+  
+</div>
