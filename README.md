@@ -1,34 +1,69 @@
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Estela+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estela's README</title>
+<style>
+    body {
+        font-family: 'Comic Sans MS', sans-serif;
+        background-color: #fffafc;
+        color: #333;
+        text-align: center;
+        padding: 50px;
+    }
+    h1 {
+        font-size: 2.5rem;
+        white-space: nowrap;
+        overflow: hidden;
+        border-right: 3px solid pink;
+        width: 0;
+        animation: typing 3s steps(20) forwards, blink 0.6s step-end infinite;
+        margin: 0 auto;
+    }
+    @keyframes typing {
+        from { width: 0; }
+        to { width: 15ch; }
+    }
+    @keyframes blink {
+        50% { border-color: transparent; }
+    }
+    .socials {
+        margin-top: 20px;
+    }
+    .socials a {
+        margin: 0 10px;
+        display: inline-block;
+        transition: transform 0.3s ease;
+    }
+    .socials a:hover {
+        transform: scale(1.2);
+    }
+    .skills {
+        margin-top: 30px;
+        font-size: 1.2rem;
+    }
+</style>
+</head>
+<body>
 
-<p align="center">
-  Aspiring UI/UX Designer ✨
-</p>
+<h1>Hi, I'm Estela 🌸</h1>
 
----
+<div class="socials">
+    <a href="https://facebook.com/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40">
+    </a>
+    <a href="https://instagram.com/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40">
+    </a>
+    <a href="mailto:your-email@example.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40">
+    </a>
+</div>
 
-### 📫 Contact Me
-<p align="center">
-  <a href="mailto:estelajalac@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/n00tellah">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.figma.com">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  </a>
-</p>
+<div class="skills">
+    🌼 Laravel | 🌼 Figma | 🌼 CSS | 🌼 HTML | 🌼 PHP
+</div>
 
----
-
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
+</body>
+</html>
