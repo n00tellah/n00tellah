@@ -8,6 +8,11 @@
 
 ---
 <h3> Aspiring Business Analyst and UI/UX Designer</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=n00tellah&theme=flat&no-frame=true&no-bg=true&title=Commits,Followers,Repositories,Experience&row=1&column=4" alt="n00tellah trophies" />
+  </a>
+</p>
 
 ---
 
