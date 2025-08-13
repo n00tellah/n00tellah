@@ -8,6 +8,9 @@
 
 ---
 <h3> Aspiring Business Analyst and UI/UX Designer</h3>
+
+---
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=n00tellah&theme=flat&no-frame=true&no-bg=true&title=Commits,Followers,Repositories,Experience&row=1&column=4" alt="n00tellah trophies" />
@@ -25,19 +28,10 @@ I enjoy creating simple, user-friendly, and visually pleasing digital experience
 ### 🛠 Skills & Tools  
 
 <p align="center">
-  <!-- UI/UX -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
-  
-  <!-- Laravel -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" height="28" style="margin-right:10px;" />
-  
-  <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-  
-  <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
-  
-  <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
 </p>
 
@@ -61,7 +55,4 @@ I enjoy creating simple, user-friendly, and visually pleasing digital experience
 
 ---
 
-<h3 align="center">
-  Thanks for visiting!  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-</h3>
+
