@@ -1,10 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Estela" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=LilitaOne&size=28&pause=1000&color=1A1A1A&font-weight=bold&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Estela,+welcome!" alt="Typing SVG" />
 </h1>
+
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/n00tellah/n00tellah/refs/heads/main/Your%20paragraph%20text.png" alt="Banner" width="900" height="250" />
 </h2>
-<h3 align="center">🌸 Aspiring UI/UX Designer 🌸</h3>
+<h3 align="center"> 🩶Aspiring Business Analyst and UI/UX Designer🩶</h3>
 
 ---
 
