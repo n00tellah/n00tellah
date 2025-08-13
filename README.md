@@ -5,19 +5,39 @@
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/n00tellah/n00tellah/refs/heads/main/Your%20paragraph%20text.png" alt="Banner" width="900" height="250" />
 </h2>
-<h3 align="center"> 🩶Aspiring Business Analyst and UI/UX Designer🩶</h3>
+
+---
+<h3> Aspiring Business Analyst and UI/UX Designer</h3>
 
 ---
 
 ### 🌼 About Me  
-Hi! I’m Estela — a curious learner, exploring design and development one step at a time.  
+Hi! I’m Estela, a curious learner, exploring design and development one step at a time.  
 I enjoy creating simple, user-friendly, and visually pleasing digital experiences.
 
 ---
 
 ### 🛠 Skills & Tools  
-- 🎨 **UI/UX Design** – Figma  
-- 💻 **Web Development** – Laravel, HTML, CSS, PHP  
+
+<p align="center">
+  <!-- UI/UX -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
+  
+  <!-- Laravel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" height="28" style="margin-right:10px;" />
+  
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+  
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+  
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
+</p>
+
+
+
 
 ---
 
