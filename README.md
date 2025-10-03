@@ -2,26 +2,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=LilitaOne&size=28&pause=1000&color=FFFFF0&font-weight=bold&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Estela,+welcome!" alt="Typing SVG" />
 </h1>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/n00tellah/n00tellah/refs/heads/main/Your%20paragraph%20text.png" alt="Banner" width="900" height="250" />
-</h2>
-
----
-<h3> Aspiring Business Analyst and UI/UX Designer</h3>
-
----
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=n00tellah&theme=flat&no-frame=true&no-bg=true&title=Commits,Followers,Repositories,Experience&row=1&column=4" alt="n00tellah trophies" />
-  </a>
+  <img src="BUsiness Analyst (1).gif" alt="Estela GIF" width="900"
+    alt="Estela GIF" 
+    style="max-width: 100%; height: auto;"/>
+
 </p>
+
+</br>
+
+<div align="center">
+
+ <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2f2f2f,100:000000&height=120&section=header&text=💼%20Aspiring%20Business%20Analyst%20&%20UI/UX%20Enthusiast%20💡&fontSize=25&fontColor=ffffff&animation=fadeIn" />
+
+  <br/>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=n00tellah&theme=monokai&no-frame=true&title=Commits,Followers,Repositories,Experience&row=1&column=4" alt="n00tellah trophies" />
+    
+  </a>
+
+</div>
 
 ---
 
 ### 🌼 About Me  
 Hi! I’m Estela, a curious learner, exploring design and development one step at a time.  
-I enjoy creating simple, user-friendly, and visually pleasing digital experiences.
+I enjoy creating simple, user-friendly digital experiences.
 
 ---
 
@@ -38,9 +45,15 @@ I enjoy creating simple, user-friendly, and visually pleasing digital experience
 </p>
 
 ---
-
-### 📫 Connect With Me  
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n00tellah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<br/>
+
+ 
+<p align="center">
+  
   <a href="https://www.facebook.com/estela.mae.jalac.2024" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
   </a>
