@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=LilitaOne&size=28&pause=1000&color=FFFFF0&font-weight=bold&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Estela,+welcome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&pause=1000&color=FFFFF0&font-weight=bold&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Estela,+welcome!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,8 @@
 
 <div align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2f2f2f,100:000000&height=120&section=header&text=💼%20Aspiring%20Business%20Analyst%20&%20UI/UX%20Enthusiast%20💡&fontSize=25&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2f2f2f,100:000000&height=120&section=header&text=💼%20About%20Me%20&fontSize=25&fontColor=ffffff&fontFamily=serif&animation=fadeIn" />
+
 
   <br/>
 
@@ -38,10 +39,14 @@ I enjoy creating simple, user-friendly digital experiences.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" title="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+</p>
+  
+  
 </p>
 
 ---
