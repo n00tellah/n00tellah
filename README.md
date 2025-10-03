@@ -13,8 +13,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2f2f2f,100:000000&height=120&section=header&text=💼%20About%20Me%20&fontSize=25&fontColor=ffffff&fontFamily=serif&animation=fadeIn" />
-
 
   <br/>
 
@@ -27,9 +25,9 @@
 
 ---
 
-### 🌼 About Me  
-Hi! I’m Estela, a curious learner, exploring design and development one step at a time.  
-I enjoy creating simple, user-friendly digital experiences.
+### 📍 About Me  
+Hi! I’m Estela, a curious learner and aspiring Business Analyst, exploring design and analysis one thoughtful step at a time.
+I’m passionate about creating simple, user-friendly digital experiences.
 
 ---
 
